@@ -1,0 +1,1402 @@
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HmisServer.exe.config
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HmisServer.exe
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HmisServer.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HmisServer.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BridgeAskesService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BridgeLIS.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Finance.Service.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HMISReportService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HRD.Service.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\HRDSystem.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\MMService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PatInService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Pharmacy.Service.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PharSaleService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PISService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\SirusFolioService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\SirusPatientService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DbLibs.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Ninject.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\KernelEngine.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\LoggingLibs.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DbConn.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UILibs.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UtilsLibs.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DbModule.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\log4net.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\CMAnimation.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\vtExtender.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\SessionInfo.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\ClientLibs.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1List.4.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\GlassButton.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\MultiColumnComboBox.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PatInService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PatInService.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PISService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\PISService.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\SirusFolioService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.exe
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\obj\x86\Release\HmisServer.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\MMService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\MMService.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1List.4.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Pharmacy.Service.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Pharmacy.Service.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UILibs.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UILibs.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DoctorFingerprintService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DoctorFingerprintService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DoctorFingerprintService.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\AntControl.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BIOS_SERVICE.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BIOS_SERVICE.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\BIOS_SERVICE.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UtilsLibs.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\UtilsLibs.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\OTSvr.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\OTSvr.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\CSSD_SERVICE.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\CSSD_SERVICE.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\CSSD_SERVICE.xml
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\RockUtil.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DashBoardService.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\DashBoardService.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Laundry.Service.dll
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Laundry.Service.pdb
+E:\@CODE_PROJECT\hmis_proj\HMIS_POSTING\HMIS\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE_2017\HMIS_MASTER\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE_2017\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\HMIS_MASTER_MUTU\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\PIS_TERUPDATE\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\PIS_22_07_2019\HmisServer\bin\Release\SirusPatientService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\SirusPatientService.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BloodBank.Service.dll
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\Admisi_IRNA_IRJA\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BloodBank.Service.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DbLibs.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Ninject.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\AntControl.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\RockUtil.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\SirusPatientService.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\UTD_RS\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\UTD_RS\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BridgeLIS.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\HMIS_UTDRS\HmisServer\bin\Release\BloodBank.Service.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2021\HMIS_PIS_PATIN\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2021\HMIS_02_03_2021\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\2021\HMIS_12_03_2021\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2021\HMIS_12_03_2021\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_12_03_2021\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_12_03_2021\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2021\HMIS_MUTU\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2021\HMIS_TT_TRIAL\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2022\Update_WTRJ\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HmisServer.exe.config
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.exe
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HmisServer.exe
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HmisServer.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HmisServer.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BridgeAskesService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DashBoardService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Finance.Service.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HMISReportService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HRD.Service.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\HRDSystem.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Laundry.Service.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\MMService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\OTSvr.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PatInService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PharSaleService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PISService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\SirusFolioService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\SirusPatientService.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\KernelEngine.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\LoggingLibs.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DbConn.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UtilsLibs.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UILibs.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DbModule.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\log4net.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\CMAnimation.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\vtExtender.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\SessionInfo.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\ClientLibs.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\GlassButton.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BloodBank.Service.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BloodBank.Service.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BridgeLIS.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DashBoardService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Laundry.Service.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Laundry.Service.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\MMService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\MMService.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\OTSvr.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PatInService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PatInService.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PISService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\PISService.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\SirusFolioService.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UtilsLibs.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UtilsLibs.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UILibs.pdb
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\UILibs.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1Input.4.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\SOURCE CODE\2022\Update_Penyerahan_Jenazah\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe.config
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Finance.Service.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HMISReportService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HRD.Service.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HRDSystem.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\OTSvr.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PISService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusPatientService.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\KernelEngine.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\LoggingLibs.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DbConn.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\UtilsLibs.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\UILibs.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DbModule.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CMAnimation.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\vtExtender.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SessionInfo.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\ClientLibs.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\GlassButton.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MultiColumnComboBox.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\OTSvr.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.xml
+D:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe.config
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HmisServer.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Finance.Service.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HMISReportService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HRD.Service.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\HRDSystem.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\OTSvr.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PISService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusPatientService.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\KernelEngine.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\LoggingLibs.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DbConn.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\UtilsLibs.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\UILibs.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DbModule.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CMAnimation.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\vtExtender.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SessionInfo.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\ClientLibs.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\GlassButton.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MultiColumnComboBox.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\MMService.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\OTSvr.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PatInService.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.xml
+F:\GARAPAN_KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe.config
+F:\KANTOR\Laundy\HmisServer\bin\Release\HmisServer.exe
+F:\KANTOR\Laundy\HmisServer\bin\Release\HmisServer.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\HmisServer.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\Finance.Service.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\HMISReportService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\HRD.Service.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\HRDSystem.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\MMService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\OTSvr.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\PatInService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\PISService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\SirusPatientService.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\KernelEngine.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\LoggingLibs.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\DbConn.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\UtilsLibs.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\UILibs.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\DbModule.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1Input.4.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\CMAnimation.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\vtExtender.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\SessionInfo.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\ClientLibs.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\GlassButton.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\MultiColumnComboBox.dll
+F:\KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\BIOS_SERVICE.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\CSSD_SERVICE.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\DashBoardService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\DoctorFingerprintService.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\Laundry.Service.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\MMService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\MMService.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\OTSvr.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\PatInService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\PatInService.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\Pharmacy.Service.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\PharSaleService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\SirusFolioService.pdb
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1List.4.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1TrueDBGrid.4.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\C1.Win.C1FlexGrid.4.xml
+F:\KANTOR\Laundy\HmisServer\bin\Release\BridgeAskesService.XmlSerializers.dll
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbprojResolveAssemblyReference.cache
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.FrmService.resources
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.Resources.resources
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.vbproj.GenerateResource.Cache
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe.licenses
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.exe
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.xml
+F:\KANTOR\Laundy\HmisServer\obj\x86\Release\HmisServer.pdb

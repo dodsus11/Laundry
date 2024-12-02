@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import schemaLocation="http://172.16.1.53:4545/SirusServiceWcf/SIRUSWcf.PatientMaster.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+  <xs:element name="PatientInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AliasName" nillable="true" type="xs:string" />
+        <xs:element xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="Gender" type="q1:char" />
+        <xs:element minOccurs="0" name="IDType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Addr1" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Addr2" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="City" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="State" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="byvalZipCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Phone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Mobile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Fax" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DOB" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Nationality" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Religion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ethnicity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BirthCountry" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Place" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BirthCertificate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="YearsofRes" type="xs:int" />
+        <xs:element minOccurs="0" name="MarStatus" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Spouse" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Child" type="xs:int" />
+        <xs:element minOccurs="0" name="TotChild" type="xs:int" />
+        <xs:element minOccurs="0" name="Occupation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Employed" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RegDate" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Visits" type="xs:int" />
+        <xs:element minOccurs="0" name="GuarantorMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorIDCode" nillable="true" type="xs:string" />
+        <xs:element xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="GuarantorGender" type="q2:char" />
+        <xs:element minOccurs="0" name="GuarantorAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOfficeName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorMobile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpPosition" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorDepartment" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffTel" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IntPtr" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Language" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DoctCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CorpClient" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FinClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorRefCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardExp" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="ContactMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConTactName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactGender" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactLang" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="HouseNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RT" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RW" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorExpired" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Education" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatientInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientInsertResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatGuarantorInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorIDCode" nillable="true" type="xs:string" />
+        <xs:element xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="GuarantorGender" type="q3:char" />
+        <xs:element minOccurs="0" name="GuarantorAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOfficeName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorMobile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpPosition" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorDepartment" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffTel" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatGuarantorInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatGuarantorInsertResult" type="xs:long" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatOtherInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IntPtr" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Language" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DoctCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CorpClient" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FinClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorRefCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardExp" type="xs:dateTime" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatOtherInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatOtherInsertResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatContactInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConTactName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactGender" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactLang" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatContactInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatContactInsertResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatParentInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherAddress" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatParentInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatParentInsertResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatUserDefinedInsert">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="HouseNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RT" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RW" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorExpired" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Education" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatUserDefinedInsertResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatUserDefinedInsertResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatientMasterDescAll">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ErrorDesc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatientMasterDescAllResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientMasterDescAllResult" nillable="true">
+          <xs:complexType>
+            <xs:annotation>
+              <xs:appinfo>
+                <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+              </xs:appinfo>
+            </xs:annotation>
+            <xs:sequence>
+              <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+              <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="ErrorDesc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatientUpdate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="MRNO" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ReasonUpdate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="UserUpdate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PatName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AliasName" nillable="true" type="xs:string" />
+        <xs:element xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="Gender" type="q4:char" />
+        <xs:element minOccurs="0" name="IDType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Addr1" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Addr2" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="City" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="State" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ZipCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Phone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Mobile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Fax" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DOB" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Nationality" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Religion" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ethnicity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BirthCountry" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Place" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BirthCertificate" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="YearsofRes" type="xs:int" />
+        <xs:element minOccurs="0" name="MarStatus" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Spouse" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Child" type="xs:int" />
+        <xs:element minOccurs="0" name="TotChild" type="xs:int" />
+        <xs:element minOccurs="0" name="Occupation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Employed" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RegDate" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Visits" type="xs:int" />
+        <xs:element minOccurs="0" name="GuarantorMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorIDCode" nillable="true" type="xs:string" />
+        <xs:element xmlns:q5="http://schemas.microsoft.com/2003/10/Serialization/" minOccurs="0" name="GuarantorGender" type="q5:char" />
+        <xs:element minOccurs="0" name="GuarantorAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOfficeName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorMobile" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorEmpPosition" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorDepartment" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuarantorOffTel" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="IntPtr" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="OtherLanguage" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DoctCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="SvcClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FinancialClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorRefCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="CreditCardExp" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="ContactMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ConTactName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactGender" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactPhone" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactRelation" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ContactLang" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="FatherCity" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherMRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherName" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherIDCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MotherAddress" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="HouseNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RT" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RW" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorExpired" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="Education" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="PatientUpdateResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="PatientUpdateResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Testing">
+    <xs:complexType>
+      <xs:sequence />
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="TestingResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="TestingResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

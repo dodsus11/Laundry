@@ -1,0 +1,364 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MM.UI
+</name>
+</assembly>
+<members>
+<member name="T:MM.UI.DSFarmasi.DetailIssueFarmasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.IndikatorRencanaPulangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.PaymentPBCLDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.ObatJamkesmasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.LogBillProcessDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.DetailIssueFarmasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.IndikatorRencanaPulangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.PaymentPBCLRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.ObatJamkesmasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.LogBillProcessRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.DetailIssueFarmasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.IndikatorRencanaPulangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.PaymentPBCLRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.ObatJamkesmasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSFarmasi.LogBillProcessRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSFarmasi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.dsDetilItemPerGudang.ItemPerGudangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.dsDetilItemPerGudang.ItemPerGudangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.dsDetilItemPerGudang.ItemPerGudangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.dsDetilItemPerGudang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanInternal.PermintaanInternalHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanInternal.PermintaanInternalHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanInternal.PermintaanInternalHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSPermintaanInternal">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSBuktiPengeluaranIssue.ApprovalPermintaanInternalHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSBuktiPengeluaranIssue.ApprovalPermintaanInternalHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSBuktiPengeluaranIssue.ApprovalPermintaanInternalHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSBuktiPengeluaranIssue">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:MM.UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:MM.UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:MM.UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:MM.UI.DSPersediaan.PendapatanObatDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSPersediaan.PendapatanObatDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSPersediaan.PendapatanObatDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSPersediaan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataHutang.LaporanDataHutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataHutang.LaporanDataHutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataHutang.LaporanDataHutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataHutang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataRekapHutang.LaporanDataRekapHutangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataRekapHutang.LaporanDataRekapHutangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataRekapHutang.LaporanDataRekapHutangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSLaporanDataRekapHutang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.dsPemakaianInternal.PemakaianInternalDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.dsPemakaianInternal.PemakaianInternalRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.dsPemakaianInternal.PemakaianInternalRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.dsPemakaianInternal">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSReturPenerimaanBarang.ReturPenerimaanDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSReturPenerimaanBarang.ReturPenerimaanDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSReturPenerimaanBarang.ReturPenerimaanDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSReturPenerimaanBarang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanMutasi.PermintaanMutasiHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanMutasi.PermintaanMutasiHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSPermintaanMutasi.PermintaanMutasiHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSPermintaanMutasi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulanan_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulanan_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan.persediaan_bulanan_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.dsPersediaanBulanan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DataSet1.PenerimaanDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSApprovalMutasi.ApprovalMutasiHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSApprovalMutasi.ApprovalMutasiHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSApprovalMutasi.ApprovalMutasiHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSApprovalMutasi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSPenerimaanBarangPerVendor.PenerimaanDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSPenerimaanBarangPerVendor.PenerimaanDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSPenerimaanBarangPerVendor.PenerimaanDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSPenerimaanBarangPerVendor">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan.PenerimaanDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSRekapPenerimaanPersediaan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:MM.UI.DSBuktiRetur.ReturPenerimaanHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:MM.UI.DSBuktiRetur.ReturPenerimaanHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:MM.UI.DSBuktiRetur.ReturPenerimaanHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:MM.UI.DSBuktiRetur">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

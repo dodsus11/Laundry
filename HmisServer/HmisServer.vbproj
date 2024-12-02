@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{A23CAC82-7750-4CEB-AAB0-B100657306D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HmisServer.My.MyApplication</StartupObject>
+    <RootNamespace>HmisServer</RootNamespace>
+    <AssemblyName>HmisServer</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HmisServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HmisServer.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AntControl, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HMIS_PIS_25092019\HmisServer\bin\Release\AntControl.dll</HintPath>
+    </Reference>
+    <Reference Include="BIOS_SERVICE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\BIOS_SERVICE.dll</HintPath>
+    </Reference>
+    <Reference Include="BloodBank.Service, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BloodBank.Service\obj\Release\BloodBank.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="BridgeAskesService">
+      <HintPath>..\HmisTemplate\bin\Release\BridgeAskesService.dll</HintPath>
+    </Reference>
+    <Reference Include="BridgeLIS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\BridgeLIS_NEW\bin\Debug\BridgeLIS.dll</HintPath>
+    </Reference>
+    <Reference Include="CSSD_SERVICE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CSSD_SERVICE.dll</HintPath>
+    </Reference>
+    <Reference Include="DashBoardService">
+      <HintPath>..\HmisTemplate\bin\Release\DashBoardService.dll</HintPath>
+    </Reference>
+    <Reference Include="DbLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HMIS_PIS_25092019\HmisServer\bin\Release\DbLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="DoctorFingerprintService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\DoctorFingerprintService.dll</HintPath>
+    </Reference>
+    <Reference Include="Finance.Service, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\Finance.Service.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="HMISReportService">
+      <HintPath>..\HmisTemplate\bin\Release\HMISReportService.dll</HintPath>
+    </Reference>
+    <Reference Include="HRD.Service, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\HRD.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="HRDSystem">
+      <HintPath>..\HmisTemplate\bin\Release\HRDSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="Laundry.Service">
+      <HintPath>..\HmisTemplate\bin\Release\Laundry.Service.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MMService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\MMService.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=2.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\HMIS_PIS_25092019\HmisServer\bin\Release\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="OTSvr, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\OTSvr.dll</HintPath>
+    </Reference>
+    <Reference Include="PatInService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\PatInService.dll</HintPath>
+    </Reference>
+    <Reference Include="Pharmacy.Service, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\Pharmacy.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="PharSaleService">
+      <HintPath>..\HmisTemplate\bin\Release\PharSaleService.dll</HintPath>
+    </Reference>
+    <Reference Include="PISService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\PISService.dll</HintPath>
+    </Reference>
+    <Reference Include="ServerLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ServerLib.dll</HintPath>
+    </Reference>
+    <Reference Include="SirusFolioService">
+      <HintPath>..\HmisTemplate\bin\Release\SirusFolioService.dll</HintPath>
+    </Reference>
+    <Reference Include="SirusPatientService">
+      <HintPath>..\HmisTemplate\bin\Release\SirusPatientService.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BIOS\BiosService.vb" />
+    <Compile Include="BLOODBANK\BloodBankService.vb" />
+    <Compile Include="CSSD\CSSDService.vb" />
+    <Compile Include="DOCTORFINGERPRINT\DoctorFingerprintService.vb" />
+    <Compile Include="FrmService.Designer.vb">
+      <DependentUpon>FrmService.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmService.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LAUNDRY\LaundryService.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PHARMACY\PharmacyService.vb" />
+    <Compile Include="PIS\PISService.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmService.resx">
+      <DependentUpon>FrmService.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\System.Data.DataTable.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="FINANCE\" />
+    <Folder Include="HRD\" />
+    <Folder Include="MM\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

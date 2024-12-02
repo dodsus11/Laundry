@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://tempuri.org/" elementFormDefault="qualified" targetNamespace="http://tempuri.org/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="FolioAdd">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="MRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PatType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AdmDate" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="DoctCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Operators" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PolyCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AdmSource" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuaNo" type="xs:long" />
+        <xs:element minOccurs="0" name="DbtCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RefferedBy" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransferFrom" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Reference" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BedNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DischNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Deposit" type="xs:float" />
+        <xs:element minOccurs="0" name="Balance" type="xs:float" />
+        <xs:element minOccurs="0" name="SvcClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="visitno" type="xs:int" />
+        <xs:element minOccurs="0" name="Diagnosis" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DiagnDesc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="OrgClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="HighClass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioAddResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioAddResult" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioUpdate">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="MRNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PatType" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AdmDate" type="xs:dateTime" />
+        <xs:element minOccurs="0" name="DoctCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Operators" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="PolyCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="AdmSource" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="GuaNo" type="xs:long" />
+        <xs:element minOccurs="0" name="DbtCode" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="RefferedBy" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="TransferFrom" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Reference" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="BedNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DischNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Deposit" type="xs:float" />
+        <xs:element minOccurs="0" name="Balance" type="xs:float" />
+        <xs:element minOccurs="0" name="SvcClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="visitno" type="xs:int" />
+        <xs:element minOccurs="0" name="Diagnosis" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DiagnDesc" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="OrgClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="HighClass" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioUpdateResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioUpdateResult" nillable="true" type="xs:anyType" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioDetailSelect">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="ErrorDesc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioDetailSelectResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioDetailSelectResult" nillable="true">
+          <xs:complexType>
+            <xs:annotation>
+              <xs:appinfo>
+                <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+              </xs:appinfo>
+            </xs:annotation>
+            <xs:sequence>
+              <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+              <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="ErrorDesc" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioUpdateDeposit">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioNo" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Deposit" type="xs:double" />
+        <xs:element minOccurs="0" name="Balance" type="xs:double" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="FolioUpdateDepositResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="FolioUpdateDepositResult" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoadBillObat">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="foliono" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="SvcClass" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="DebitorID" nillable="true" type="xs:string" />
+        <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="LoadBillObatResponse">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" name="LoadBillObatResult" nillable="true">
+          <xs:complexType>
+            <xs:annotation>
+              <xs:appinfo>
+                <ActualType Name="DataTable" Namespace="http://schemas.datacontract.org/2004/07/System.Data" xmlns="http://schemas.microsoft.com/2003/10/Serialization/" />
+              </xs:appinfo>
+            </xs:annotation>
+            <xs:sequence>
+              <xs:any minOccurs="0" maxOccurs="unbounded" namespace="http://www.w3.org/2001/XMLSchema" processContents="lax" />
+              <xs:any minOccurs="1" namespace="urn:schemas-microsoft-com:xml-diffgram-v1" processContents="lax" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element minOccurs="0" name="Message" nillable="true" type="xs:string" />
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

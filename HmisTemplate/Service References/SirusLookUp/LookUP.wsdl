@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="LookUP" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://172.16.1.53:4545/SirusServiceWcf/SIRUSWcf.LookUP.svc?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://172.16.1.53:4545/SirusServiceWcf/SIRUSWcf.LookUP.svc?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://172.16.1.53:4545/SirusServiceWcf/SIRUSWcf.LookUP.svc?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/System.Data" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="InterFaceLookUp_LookUpCityKab_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpCityKab" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpCityKab_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpCityKabResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpKabupatenProv_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpKabupatenProv" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpKabupatenProv_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpKabupatenProvResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpProvinsi_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpProvinsi" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpProvinsi_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpProvinsiResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpAgama_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpAgama" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpAgama_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpAgamaResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpEtnik_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpEtnik" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpEtnik_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpEtnikResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpMaritalSMS_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpMaritalSMS" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpMaritalSMS_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpMaritalSMSResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpPekerjaan_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpPekerjaan" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpPekerjaan_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpPekerjaanResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpNationality_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpNationality" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpNationality_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpNationalityResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpPendidikan_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpPendidikan" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpPendidikan_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpPendidikanResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpFinancialClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpFinancialClass" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpFinancialClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpFinancialClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpDoctor_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpDoctor" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpDoctor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpDoctorResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpLanguage_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpLanguage" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpLanguage_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpLanguageResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpKabupaten_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpKabupaten" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpKabupaten_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpKabupatenResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpCity_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpCity" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpCity_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpCityResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpDebitor_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpDebitor" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpDebitor_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpDebitorResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpSvcClass_InputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpSvcClass" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_LookUpSvcClass_OutputMessage">
+    <wsdl:part name="parameters" element="tns:LookUpSvcClassResponse" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_PatientMasterFolio_InputMessage">
+    <wsdl:part name="parameters" element="tns:PatientMasterFolio" />
+  </wsdl:message>
+  <wsdl:message name="InterFaceLookUp_PatientMasterFolio_OutputMessage">
+    <wsdl:part name="parameters" element="tns:PatientMasterFolioResponse" />
+  </wsdl:message>
+  <wsdl:portType name="InterFaceLookUp">
+    <wsdl:operation name="LookUpCityKab">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpCityKab" message="tns:InterFaceLookUp_LookUpCityKab_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpCityKabResponse" message="tns:InterFaceLookUp_LookUpCityKab_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpKabupatenProv">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpKabupatenProv" message="tns:InterFaceLookUp_LookUpKabupatenProv_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpKabupatenProvResponse" message="tns:InterFaceLookUp_LookUpKabupatenProv_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpProvinsi">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpProvinsi" message="tns:InterFaceLookUp_LookUpProvinsi_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpProvinsiResponse" message="tns:InterFaceLookUp_LookUpProvinsi_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpAgama">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpAgama" message="tns:InterFaceLookUp_LookUpAgama_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpAgamaResponse" message="tns:InterFaceLookUp_LookUpAgama_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpEtnik">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpEtnik" message="tns:InterFaceLookUp_LookUpEtnik_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpEtnikResponse" message="tns:InterFaceLookUp_LookUpEtnik_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpMaritalSMS">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpMaritalSMS" message="tns:InterFaceLookUp_LookUpMaritalSMS_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpMaritalSMSResponse" message="tns:InterFaceLookUp_LookUpMaritalSMS_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpPekerjaan">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpPekerjaan" message="tns:InterFaceLookUp_LookUpPekerjaan_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpPekerjaanResponse" message="tns:InterFaceLookUp_LookUpPekerjaan_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpNationality">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpNationality" message="tns:InterFaceLookUp_LookUpNationality_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpNationalityResponse" message="tns:InterFaceLookUp_LookUpNationality_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpPendidikan">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpPendidikan" message="tns:InterFaceLookUp_LookUpPendidikan_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpPendidikanResponse" message="tns:InterFaceLookUp_LookUpPendidikan_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpFinancialClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpFinancialClass" message="tns:InterFaceLookUp_LookUpFinancialClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpFinancialClassResponse" message="tns:InterFaceLookUp_LookUpFinancialClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpDoctor">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpDoctor" message="tns:InterFaceLookUp_LookUpDoctor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpDoctorResponse" message="tns:InterFaceLookUp_LookUpDoctor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpLanguage">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpLanguage" message="tns:InterFaceLookUp_LookUpLanguage_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpLanguageResponse" message="tns:InterFaceLookUp_LookUpLanguage_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpKabupaten">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpKabupaten" message="tns:InterFaceLookUp_LookUpKabupaten_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpKabupatenResponse" message="tns:InterFaceLookUp_LookUpKabupaten_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpCity">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpCity" message="tns:InterFaceLookUp_LookUpCity_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpCityResponse" message="tns:InterFaceLookUp_LookUpCity_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpDebitor">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpDebitor" message="tns:InterFaceLookUp_LookUpDebitor_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpDebitorResponse" message="tns:InterFaceLookUp_LookUpDebitor_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="LookUpSvcClass">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpSvcClass" message="tns:InterFaceLookUp_LookUpSvcClass_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/LookUpSvcClassResponse" message="tns:InterFaceLookUp_LookUpSvcClass_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="PatientMasterFolio">
+      <wsdl:input wsaw:Action="http://tempuri.org/InterFaceLookUp/PatientMasterFolio" message="tns:InterFaceLookUp_PatientMasterFolio_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/InterFaceLookUp/PatientMasterFolioResponse" message="tns:InterFaceLookUp_PatientMasterFolio_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_InterFaceLookUp" type="tns:InterFaceLookUp">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="LookUpCityKab">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpCityKab" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpKabupatenProv">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpKabupatenProv" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpProvinsi">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpProvinsi" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpAgama">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpAgama" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpEtnik">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpEtnik" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpMaritalSMS">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpMaritalSMS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpPekerjaan">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpPekerjaan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpNationality">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpNationality" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpPendidikan">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpPendidikan" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpFinancialClass">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpFinancialClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpDoctor">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpDoctor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpLanguage">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpLanguage" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpKabupaten">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpKabupaten" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpCity">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpCity" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpDebitor">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpDebitor" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="LookUpSvcClass">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/LookUpSvcClass" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="PatientMasterFolio">
+      <soap:operation soapAction="http://tempuri.org/InterFaceLookUp/PatientMasterFolio" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="LookUP">
+    <wsdl:port name="BasicHttpBinding_InterFaceLookUp" binding="tns:BasicHttpBinding_InterFaceLookUp">
+      <soap:address location="http://172.16.1.53:4545/SirusServiceWcf/SIRUSWcf.LookUP.svc" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

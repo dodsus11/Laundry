@@ -1,0 +1,252 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Pharmacy.UI
+</name>
+</assembly>
+<members>
+<member name="T:Pharmacy.UI.PendapatanObatPerDepo.PendapatanObatDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.PendapatanObatPerDepo.PendapatanObatDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.PendapatanObatPerDepo.PendapatanObatDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.PendapatanObatPerDepo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.ResepDetail.ResepDetailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.ResepDetail.ResepDetailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.ResepDetail.ResepDetailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.ResepDetail">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsCopyResep.DetailResepDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsCopyResep.DetailResepRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsCopyResep.DetailResepRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsCopyResep">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:Pharmacy.UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Pharmacy.UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Pharmacy.UI.My.Resources.Resources.refresh">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Pharmacy.UI.My.Resources.Resources.ui_anim_basic_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Pharmacy.UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanReturPenjualanObat.LaporanReturPenjualanObatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanReturPenjualanObat.LaporanReturPenjualanObatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanReturPenjualanObat.LaporanReturPenjualanObatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanReturPenjualanObat">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLabelSuntikan.LabelSuntikanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLabelSuntikan.LabelSuntikanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLabelSuntikan.LabelSuntikanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsLabelSuntikan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.PenjualanObatTanpaRegisterPerDepo.PenjualanTanpaRegisterDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.PenjualanObatTanpaRegisterPerDepo.PenjualanTanpaRegisterRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.PenjualanObatTanpaRegisterPerDepo.PenjualanTanpaRegisterRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.PenjualanObatTanpaRegisterPerDepo">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsBuktiPemberianObatPasienIrna.PemberianObatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsBuktiPemberianObatPasienIrna.PemberianObatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsBuktiPemberianObatPasienIrna.PemberianObatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsBuktiPemberianObatPasienIrna">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanRincianBiayaFarmasi.RincianBiayaFarmasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanRincianBiayaFarmasi.RincianBiayaFarmasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanRincianBiayaFarmasi.RincianBiayaFarmasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanRincianBiayaFarmasi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsVerifAskes.DetailResepAskesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsVerifAskes.DetailResepAskesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsVerifAskes.DetailResepAskesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsVerifAskes">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanPenggunaanObatNarkotik.LaporanPenggunaanObatNarkotikDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanPenggunaanObatNarkotik.LaporanPenggunaanObatNarkotikRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanPenggunaanObatNarkotik.LaporanPenggunaanObatNarkotikRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.DSLaporanPenggunaanObatNarkotik">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsPenjualanDepoPerJenisPasien.PenjualanDepoPerJenisPasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsPenjualanDepoPerJenisPasien.PenjualanDepoPerJenisPasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsPenjualanDepoPerJenisPasien.PenjualanDepoPerJenisPasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsPenjualanDepoPerJenisPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.DetailIssueFarmasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.ObatJamkesmasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.DetailIssueFarmasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.ObatJamkesmasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.DetailIssueFarmasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi.ObatJamkesmasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.DSFarmasi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLapSaldoperGudang.DetailSaldoAkhirDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLapSaldoperGudang.DetailSaldoAkhirRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Pharmacy.UI.dsLapSaldoperGudang.DetailSaldoAkhirRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Pharmacy.UI.dsLapSaldoperGudang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

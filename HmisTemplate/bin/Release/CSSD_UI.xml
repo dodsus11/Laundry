@@ -1,0 +1,100 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CSSD_UI
+</name>
+</assembly>
+<members>
+<member name="P:CSSD_UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CSSD_UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CSSD_UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BuktiOrderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeNoTracingDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodePetugasDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeMesinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistAlatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistHeaderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BuktiOrderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeNoTracingRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodePetugasRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeMesinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistAlatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistHeaderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BuktiOrderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeNoTracingRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodePetugasRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport.BarcodeMesinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistAlatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport.CeklistHeaderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:CSSD_UI.dsReport">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

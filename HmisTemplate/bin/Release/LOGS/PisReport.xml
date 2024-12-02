@@ -1,0 +1,348 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PisReport
+</name>
+</assembly>
+<members>
+<member name="T:PisReport.dsGroupTagihanIRJA.group_tagihan_irjaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsGroupTagihanIRJA.group_tagihan_irjaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsGroupTagihanIRJA.group_tagihan_irjaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsGroupTagihanIRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_EntryTrans.entry_transDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_EntryTrans.entry_transRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_EntryTrans.entry_transRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_EntryTrans">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PisReport.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PisReport.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PisReport.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.group_pelayananDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.rincian_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.obatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.group_pelayananRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.rincian_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.obatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.group_pelayananRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.rincian_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_BillGroup.obatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_BillGroup">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienByDebitur.debiturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienByDebitur.debiturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienByDebitur.debiturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienByDebitur">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_tagihan.rincianDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_tagihan.pasien_dataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_tagihan.rincianRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_tagihan.pasien_dataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_tagihan.rincianRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_tagihan.pasien_dataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_tagihan">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsTest.tesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsTest.tesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsTest.tesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsTest">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PenggunaanBed.penggunaan_bedDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PenggunaanBed.penggunaan_bedRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PenggunaanBed.penggunaan_bedRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PenggunaanBed">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsHeaderBilling.headerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsHeaderBilling.headerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsHeaderBilling.headerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsHeaderBilling">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsPasien.pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsPasien.pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsPasien.pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_SensusHarianIRJA.sensus_irjaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_SensusHarianIRJA.sensus_irjaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_SensusHarianIRJA.sensus_irjaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_SensusHarianIRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_PenerimaanKasir.penerimaan_kasirDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_PenerimaanKasir.penerimaan_kasirRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_PenerimaanKasir.penerimaan_kasirRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_PenerimaanKasir">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_MutasiPasienIRNA.mutasiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_MutasiPasienIRNA.mutasiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_MutasiPasienIRNA.mutasiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_MutasiPasienIRNA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsBillDetailIRJA.bill_detailDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsBillDetailIRJA.bill_detailRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsBillDetailIRJA.bill_detailRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsBillDetailIRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsHeadHost.headDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsHeadHost.headRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsHeadHost.headRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsHeadHost">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_PengantarBayar.bayarDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_PengantarBayar.bayarRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_PengantarBayar.bayarRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_PengantarBayar">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienPulang.pasien_pulangDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienPulang.pasien_pulangRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienPulang.pasien_pulangRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_IRNA_PasienPulang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.ds_IRJA_KunjunganPasien.kunjungan_irjaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.ds_IRJA_KunjunganPasien.kunjungan_irjaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.ds_IRJA_KunjunganPasien.kunjungan_irjaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.ds_IRJA_KunjunganPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PisReport.dsVolKegLaborat.volkeg_labDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PisReport.dsVolKegLaborat.volkeg_labRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PisReport.dsVolKegLaborat.volkeg_labRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PisReport.dsVolKegLaborat">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

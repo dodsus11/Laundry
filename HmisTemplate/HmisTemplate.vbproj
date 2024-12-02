@@ -1,0 +1,666 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{19C4C74F-1270-4C6F-B302-F0EF740AF423}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>HmisTemplate.My.MyApplication</StartupObject>
+    <RootNamespace>HmisTemplate</RootNamespace>
+    <AssemblyName>HmisTemplate</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HmisTemplate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>HmisTemplate.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icon7.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.Win.C1Command.4, Version=4.0.20112.19488, Culture=neutral, PublicKeyToken=e808566f358766d8, processorArchitecture=MSIL" />
+    <Reference Include="C1.Win.C1Input.4, Version=4.0.20112.33265, Culture=neutral, PublicKeyToken=7e7ff60f0c214f9a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\C1.Win.C1Input.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1TrueDBGrid.4, Version=4.0.20112.61226, Culture=neutral, PublicKeyToken=75ae3fb0e2b1e0da, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\C1.Win.C1TrueDBGrid.4.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\ClientLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="CMAnimation, Version=1.0.0.15359, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\CMAnimation.dll</HintPath>
+    </Reference>
+    <Reference Include="DASHBOARD_UTDRS, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DASHBOARD_UTDRS.dll</HintPath>
+    </Reference>
+    <Reference Include="DbLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\DbLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="DbModule">
+      <HintPath>..\HmisServer\bin\Release\DbModule.dll</HintPath>
+    </Reference>
+    <Reference Include="GlassButton">
+      <HintPath>bin\Release\GlassButton.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.Common">
+      <HintPath>bin\Release\Guifreaks.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Guifreaks.NavigationBar, Version=0.1.0.0, Culture=neutral, PublicKeyToken=bf0afd6b35ed9434, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Guifreaks.NavigationBar.dll</HintPath>
+    </Reference>
+    <Reference Include="KernelEngine, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\KernelEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="LoggingLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\LoggingLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MultiColumnComboBox">
+      <HintPath>bin\Release\MultiColumnComboBox.dll</HintPath>
+    </Reference>
+    <Reference Include="Ninject, Version=2.2.0.0, Culture=neutral, PublicKeyToken=c7192dc5380945e7, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Ninject.dll</HintPath>
+    </Reference>
+    <Reference Include="NotificationWindow">
+      <HintPath>bin\Release\NotificationWindow.dll</HintPath>
+    </Reference>
+    <Reference Include="PISService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\PISService.dll</HintPath>
+    </Reference>
+    <Reference Include="Renderers, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\Renderers.dll</HintPath>
+    </Reference>
+    <Reference Include="Server, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <ExecutableExtension>.exe</ExecutableExtension>
+      <HintPath>bin\Release\Server.exe</HintPath>
+    </Reference>
+    <Reference Include="SessionInfo, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\SessionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="SirusPatientService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\SirusPatientService.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UILibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\UILibs.dll</HintPath>
+    </Reference>
+    <Reference Include="UtilsLibs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Release\UtilsLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="vtExtender">
+      <HintPath>bin\Release\vtExtender.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dao\CustomerDao.vb" />
+    <Compile Include="dao\LoginDao.vb" />
+    <Compile Include="dao\MenuControlDao.vb" />
+    <Compile Include="dao\MenuDao.vb" />
+    <Compile Include="dao\ProcessDao.vb" />
+    <Compile Include="dao\SubMenuDao.vb" />
+    <Compile Include="dao\TransCodeDao.vb" />
+    <Compile Include="dao\UserDao.vb" />
+    <Compile Include="engine\TransCode.vb" />
+    <Compile Include="model\Menu.vb" />
+    <Compile Include="model\MenuControl.vb" />
+    <Compile Include="model\MenuProcess.vb" />
+    <Compile Include="model\Process.vb" />
+    <Compile Include="model\Role.vb" />
+    <Compile Include="model\RolePermission.vb" />
+    <Compile Include="model\User.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Service References\SirusAdmisiGrd\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SirusLookUp\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Service References\SirusPatientMaster\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\control\ModControlList.Designer.vb">
+      <DependentUpon>ModControlList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\control\ModControlList.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\control\UcControlAdd.Designer.vb">
+      <DependentUpon>UcControlAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\control\UcControlAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\FrmRoleList.Designer.vb">
+      <DependentUpon>FrmRoleList.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\FrmRoleList.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\FrmUserAdd.Designer.vb">
+      <DependentUpon>FrmUserAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\FrmUserAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\PageUserAdd.Designer.vb">
+      <DependentUpon>PageUserAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\PageUserAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\PageUserRoles.Designer.vb">
+      <DependentUpon>PageUserRoles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\PageUserRoles.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\DlgMenuAdd.Designer.vb">
+      <DependentUpon>DlgMenuAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\DlgMenuAdd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\modAssignProcToRole.Designer.vb">
+      <DependentUpon>modAssignProcToRole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\modAssignProcToRole.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\modProcess.Designer.vb">
+      <DependentUpon>modProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\modProcess.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\ucMenuConfig.Designer.vb">
+      <DependentUpon>ucMenuConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\ucMenuConfig.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\ucProcessAdd.Designer.vb">
+      <DependentUpon>ucProcessAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\process\ucProcessAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\role\modRoles.Designer.vb">
+      <DependentUpon>modRoles.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\role\modRoles.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\role\UcRolesAdd.Designer.vb">
+      <DependentUpon>UcRolesAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\role\UcRolesAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\UcCustomMenu.Designer.vb">
+      <DependentUpon>UcCustomMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\UcCustomMenu.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\users\modUsers.Designer.vb">
+      <DependentUpon>modUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\users\modUsers.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\custom_menu\users\ucUserAdd.Designer.vb">
+      <DependentUpon>ucUserAdd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\custom_menu\users\ucUserAdd.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\DataMenu.vb" />
+    <Compile Include="ui\DlgChangePwd.Designer.vb">
+      <DependentUpon>DlgChangePwd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\DlgChangePwd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\DlgInfo.Designer.vb">
+      <DependentUpon>DlgInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\DlgInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\DlgVerifyAccount.Designer.vb">
+      <DependentUpon>DlgVerifyAccount.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\DlgVerifyAccount.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FreezeLogin.Designer.vb">
+      <DependentUpon>FreezeLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FreezeLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmCustomer.Designer.vb">
+      <DependentUpon>FrmCustomer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmCustomer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmLogin.Designer.vb">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmLogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmMenuConfig.Designer.vb">
+      <DependentUpon>FrmMenuConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmMenuConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmProcess.Designer.vb">
+      <DependentUpon>FrmProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmProcess.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmTransCode.Designer.vb">
+      <DependentUpon>FrmTransCode.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmTransCode.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\FrmUsers.Designer.vb">
+      <DependentUpon>FrmUsers.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\FrmUsers.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\HMISMenu.Designer.vb">
+      <DependentUpon>HMISMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\HMISMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\MainMenu.Designer.vb">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\MainMenu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ui\UcBarang.Designer.vb">
+      <DependentUpon>UcBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\UcBarang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\UcMenuProcess.Designer.vb">
+      <DependentUpon>UcMenuProcess.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\UcMenuProcess.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ui\UcPerson.Designer.vb">
+      <DependentUpon>UcPerson.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ui\UcPerson.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="utils\CryptoUtil.vb" />
+    <Compile Include="utils\MdlPrint.vb" />
+    <Compile Include="utils\ModUtils.vb" />
+    <Compile Include="utils\TCPHelper.vb" />
+    <Compile Include="utils\TransparentProxy.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\control\ModControlList.resx">
+      <DependentUpon>ModControlList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\control\UcControlAdd.resx">
+      <DependentUpon>UcControlAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\FrmRoleList.resx">
+      <DependentUpon>FrmRoleList.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\FrmUserAdd.resx">
+      <DependentUpon>FrmUserAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\PageUserAdd.resx">
+      <DependentUpon>PageUserAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\PageUserRoles.resx">
+      <DependentUpon>PageUserRoles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\process\DlgMenuAdd.resx">
+      <DependentUpon>DlgMenuAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\process\modAssignProcToRole.resx">
+      <DependentUpon>modAssignProcToRole.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\process\modProcess.resx">
+      <DependentUpon>modProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\process\ucMenuConfig.resx">
+      <DependentUpon>ucMenuConfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\process\ucProcessAdd.resx">
+      <DependentUpon>ucProcessAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\role\modRoles.resx">
+      <DependentUpon>modRoles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\role\UcRolesAdd.resx">
+      <DependentUpon>UcRolesAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\UcCustomMenu.resx">
+      <DependentUpon>UcCustomMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\users\modUsers.resx">
+      <DependentUpon>modUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\custom_menu\users\ucUserAdd.resx">
+      <DependentUpon>ucUserAdd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\DlgChangePwd.resx">
+      <DependentUpon>DlgChangePwd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\DlgInfo.resx">
+      <DependentUpon>DlgInfo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\DlgVerifyAccount.resx">
+      <DependentUpon>DlgVerifyAccount.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FreezeLogin.resx">
+      <DependentUpon>FreezeLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmCustomer.resx">
+      <DependentUpon>FrmCustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmLogin.resx">
+      <DependentUpon>FrmLogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmMenuConfig.resx">
+      <DependentUpon>FrmMenuConfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmProcess.resx">
+      <DependentUpon>FrmProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmTransCode.resx">
+      <DependentUpon>FrmTransCode.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\FrmUsers.resx">
+      <DependentUpon>FrmUsers.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\HMISMenu.resx">
+      <DependentUpon>HMISMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\MainMenu.resx">
+      <DependentUpon>MainMenu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\UcBarang.resx">
+      <DependentUpon>UcBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\UcMenuProcess.resx">
+      <DependentUpon>UcMenuProcess.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ui\UcPerson.resx">
+      <DependentUpon>UcPerson.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\DataSources\System.Data.DataTable.datasource" />
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="Service References\SirusAdmisiGrd\AdmisionGRD1.wsdl" />
+    <None Include="Service References\SirusAdmisiGrd\SIRUSWcf3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusAdmisiGrd\SIRUSWcf6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusAdmisiGrd\SIRUSWcf7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusLookUp\LookUP1.wsdl" />
+    <None Include="Service References\SirusLookUp\SIRUSWcf3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusLookUp\SIRUSWcf6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusLookUp\SIRUSWcf7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusPatientMaster\PatientMaster1.wsdl" />
+    <None Include="Service References\SirusPatientMaster\SIRUSWcf3.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusPatientMaster\SIRUSWcf6.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Service References\SirusPatientMaster\SIRUSWcf7.xsd">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ui\role\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorize.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wizard.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\klipper_dock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="hospital-icon.ico" />
+    <Content Include="icon7.ico" />
+    <None Include="Service References\SirusPatientMaster\SIRUSWcf1.disco" />
+    <None Include="Service References\SirusLookUp\SIRUSWcf1.disco" />
+    <None Include="Service References\SirusAdmisiGrd\SIRUSWcf1.disco" />
+    <None Include="Service References\SirusLookUp\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Service References\SirusLookUp\configuration.svcinfo" />
+    <None Include="Service References\SirusLookUp\configuration91.svcinfo" />
+    <None Include="Service References\SirusPatientMaster\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Service References\SirusPatientMaster\configuration.svcinfo" />
+    <None Include="Service References\SirusPatientMaster\configuration91.svcinfo" />
+    <None Include="Service References\SirusAdmisiGrd\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Service References\SirusAdmisiGrd\configuration.svcinfo" />
+    <None Include="Service References\SirusAdmisiGrd\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Service References\SirusAdmisiGrd\" />
+    <WCFMetadataStorage Include="Service References\SirusLookUp\" />
+    <WCFMetadataStorage Include="Service References\SirusPatientMaster\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

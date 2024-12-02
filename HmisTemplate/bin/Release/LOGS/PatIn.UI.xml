@@ -1,0 +1,481 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PatIn.UI
+</name>
+</assembly>
+<members>
+<member name="T:PatIn.UI.dsRadLabel.rad_itemsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRadLabel.rad_itemsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRadLabel.rad_itemsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRadLabel">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsLaporanSensus.LaporanSensusDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsLaporanSensus.LaporanSensusRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsLaporanSensus.LaporanSensusRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsLaporanSensus">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapRoom.rekap_roomDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapRoom.rekap_roomRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapRoom.rekap_roomRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRekapRoom">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsOMLabRad.orderDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsOMLabRad.orderRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsOMLabRad.orderRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsOMLabRad">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsDataSosialPasien.data_sosial_pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsDataSosialPasien.data_sosial_pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsDataSosialPasien.data_sosial_pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsDataSosialPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:PatIn.UI.BillIrnaHelper.AddAkomodasi_SplitDetail">
+	<summary>
+ deprecated(2014-12-18) since using extract proc in db
+ </summary>
+	<remarks></remarks>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_inDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_outDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_pindahanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_dipindahkanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.pasien_irnaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_inRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_outRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_pindahanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_dipindahkanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.pasien_irnaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_inRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_outRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_pindahanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.sensus_dipindahkanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut.pasien_irnaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSensusHarianInOut">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsKwitansiIRNA.kwitansi_irnaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsKwitansiIRNA.kwitansi_irnaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsKwitansiIRNA.kwitansi_irnaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsKwitansiIRNA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsSurveiPPI.rekap_ppiDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsSurveiPPI.rekap_ppiRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsSurveiPPI.rekap_ppiRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsSurveiPPI">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsRevenuePasienPulang.revenue_pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRevenuePasienPulang.revenue_pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRevenuePasienPulang.revenue_pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRevenuePasienPulang">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsRadResult.rad_resultDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRadResult.rad_resultRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRadResult.rad_resultRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRadResult">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsDiagIGD.diag_igdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsDiagIGD.diag_igdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsDiagIGD.diag_igdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsDiagIGD">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.kegiatan_radDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.rekap_keg_debiturDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.kegiatan_radRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.rekap_keg_debiturRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.kegiatan_radRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi.rekap_keg_debiturRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsKegRadiologi">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsPasienHeader.pasien_headerDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsPasienHeader.pasien_headerRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsPasienHeader.pasien_headerRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsPasienHeader">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:PatIn.UI.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PatIn.UI.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PatIn.UI.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_bpjsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.prosedurDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.diagnosaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_bpjsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.prosedurRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.diagnosaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.rincian_bpjsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.prosedurRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien.diagnosaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRincianBiayaPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.order_radDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.barcodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.order_radRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.barcodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.order_radRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad.barcodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsOrderRad">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsLabelPasien.label_pasienDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsLabelPasien.label_pasienRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsLabelPasien.label_pasienRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsLabelPasien">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsRiwayatPenyakit_IRJA.riwayatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRiwayatPenyakit_IRJA.riwayatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRiwayatPenyakit_IRJA.riwayatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRiwayatPenyakit_IRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_dailyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_tableDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_dailyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_tableRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_dailyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily.payment_tableRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsPaymentDaily">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapPendapatanIRJA.rekapDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapPendapatanIRJA.rekapRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsRekapPendapatanIRJA.rekapRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsRekapPendapatanIRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_klinik_irjaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_pendapatanDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_klinik_irjaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_pendapatanRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_klinik_irjaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA.kegiatan_pendapatanRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PatIn.UI.dsVolKegIRJA">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

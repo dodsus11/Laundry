@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{7555D4B8-9258-4ABE-BEF2-171FA47B54AC}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>Laundry.UI</RootNamespace>
+    <AssemblyName>Laundry.UI</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>..\HmisTemplate\bin\Release\</OutputPath>
+    <DocumentationFile>Laundry.UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\HmisTemplate\bin\Release\</OutputPath>
+    <DocumentationFile>Laundry.UI.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="C1.C1Pdf.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.C1Pdf.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.C1Report.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.C1Report.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Command.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Command.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1FlexGrid.Classic.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1FlexGrid.Classic.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Input.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Input.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1InputPanel.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1InputPanel.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1List.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1List.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Report.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Report.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Ribbon.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Ribbon.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Sizer.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Sizer.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1SuperTooltip.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1SuperTooltip.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1TrueDBGrid.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1TrueDBGrid.4.dll</HintPath>
+    </Reference>
+    <Reference Include="C1.Win.C1Win7Pack.4">
+      <HintPath>..\HmisTemplate\bin\Release\C1.Win.C1Win7Pack.4.dll</HintPath>
+    </Reference>
+    <Reference Include="ClientLibs">
+      <HintPath>..\HmisTemplate\bin\Release\ClientLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="CMAnimation">
+      <HintPath>..\HmisTemplate\bin\Release\CMAnimation.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.ReportSource.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.Shared.dll</HintPath>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\CrystalDecisions.Windows.Forms.dll</HintPath>
+    </Reference>
+    <Reference Include="DbConn, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\DbConn.dll</HintPath>
+    </Reference>
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\FlashControlV71.dll</HintPath>
+    </Reference>
+    <Reference Include="Laundry.Service, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\Laundry.Service.dll</HintPath>
+    </Reference>
+    <Reference Include="log4net, Version=1.2.10.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="LoggingLibs">
+      <HintPath>..\HmisTemplate\bin\Release\LoggingLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\HmisTemplate\bin\Release\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="ReachFramework" />
+    <Reference Include="SessionInfo, Version=1.0.0.0, Culture=neutral, processorArchitecture=x86">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\SessionInfo.dll</HintPath>
+    </Reference>
+    <Reference Include="SirusFolioService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\HmisTemplate\bin\Release\SirusFolioService.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.OracleClient" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="UILibs">
+      <HintPath>..\HmisTemplate\bin\Release\UILibs.dll</HintPath>
+    </Reference>
+    <Reference Include="UtilsLibs">
+      <HintPath>..\HmisTemplate\bin\Release\UtilsLibs.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="laporan\ucDataLinenRusakHilang.Designer.vb">
+      <DependentUpon>ucDataLinenRusakHilang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucDataLinenRusakHilang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucDataPenggunaanChemical.Designer.vb">
+      <DependentUpon>ucDataPenggunaanChemical.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucDataPenggunaanChemical.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinCuci.Designer.vb">
+      <DependentUpon>ucDataUtilisasiMesinCuci.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinCuci.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinPengering.Designer.vb">
+      <DependentUpon>ucDataUtilisasiMesinPengering.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinPengering.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinSetrika.Designer.vb">
+      <DependentUpon>ucDataUtilisasiMesinSetrika.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucDataUtilisasiMesinSetrika.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucLapLinenPerMesinSetrika.Designer.vb">
+      <DependentUpon>ucLapLinenPerMesinSetrika.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucLapLinenPerMesinSetrika.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\FormKitirOrder.Designer.vb">
+      <DependentUpon>FormKitirOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\FormKitirOrder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="laporan\KitirDetail.vb" />
+    <Compile Include="laporan\KitirHeader.vb" />
+    <Compile Include="laporan\cr_KitirOrder.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_KitirOrder.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="laporan\cr_LaporanRekapLinenBersih.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_LaporanRekapLinenBersih.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="laporan\LaporanRekapLinen.vb">
+      <DependentUpon>LaporanRekapLinen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\RekapLinenKeluar.vb" />
+    <Compile Include="laporan\cr_LaporanRekapLinenKelauar.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>cr_LaporanRekapLinenKelauar.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenKeluar.Designer.vb">
+      <DependentUpon>ucRekapLinenKeluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenKeluar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\LaporanRekapLinen.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LaporanRekapLinen.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\RekapLinen.vb" />
+    <Compile Include="laporan\ucRekapLinen.Designer.vb">
+      <DependentUpon>ucRekapLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenKotor.Designer.vb">
+      <DependentUpon>ucRekapLinenKotor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenKotor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenPerJnsLinen.Designer.vb">
+      <DependentUpon>ucRekapLinenPerJnsLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenPerJnsLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenTerdistribusi.Designer.vb">
+      <DependentUpon>ucRekapLinenTerdistribusi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="laporan\ucRekapLinenTerdistribusi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="setup\clsConn.vb" />
+    <Compile Include="setup\FormAddDataLinen.Designer.vb">
+      <DependentUpon>FormAddDataLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\FormAddDataLinen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup\FormSetupRuang.Designer.vb">
+      <DependentUpon>FormSetupRuang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\FormSetupRuang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup\FormTambahInv.Designer.vb">
+      <DependentUpon>FormTambahInv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\FormTambahInv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup\ModDataStokLinen.Designer.vb">
+      <DependentUpon>ModDataStokLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModDataStokLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModLinenKeluar.Designer.vb">
+      <DependentUpon>ModLinenKeluar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModLinenKeluar.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModLinenTransInNew.Designer.vb">
+      <DependentUpon>ModLinenTransInNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModLinenTransInNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModLinenTransOutNew.Designer.vb">
+      <DependentUpon>ModLinenTransOutNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModLinenTransOutNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModMasterPembersih2.Designer.vb">
+      <DependentUpon>ModMasterPembersih2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModMasterPembersih2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcAddDetailDataPerolehanLinen.Designer.vb">
+      <DependentUpon>UcAddDetailDataPerolehanLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcAddDetailDataPerolehanLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcAddInventarisRuangan.Designer.vb">
+      <DependentUpon>UcAddInventarisRuangan.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcAddInventarisRuangan.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcDetailDataLinenRusak.Designer.vb">
+      <DependentUpon>UcDetailDataLinenRusak.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcDetailDataLinenRusak.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInsertPegawai.Designer.vb">
+      <DependentUpon>UcInsertPegawai.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInsertPegawai.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModPegawaiLaundry.Designer.vb">
+      <DependentUpon>ModPegawaiLaundry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModPegawaiLaundry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInsertPembersih2.Designer.vb">
+      <DependentUpon>UcInsertPembersih2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInsertPembersih2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInventarisRuang.Designer.vb">
+      <DependentUpon>UcInventarisRuang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInventarisRuang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UCLinenTransOut.Designer.vb">
+      <DependentUpon>UCLinenTransOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UCLinenTransOut.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModLinenTransOut.Designer.vb">
+      <DependentUpon>ModLinenTransOut.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModLinenTransOut.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\FormCancelTrans.Designer.vb">
+      <DependentUpon>FormCancelTrans.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\FormCancelTrans.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup\FormPersediaanLinen.Designer.vb">
+      <DependentUpon>FormPersediaanLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\FormPersediaanLinen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="setup\ModLinenTransIn.Designer.vb">
+      <DependentUpon>ModLinenTransIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModLinenTransIn.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UCLinenTransIn.Designer.vb">
+      <DependentUpon>UCLinenTransIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UCLinenTransIn.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInsertPembersih.Designer.vb">
+      <DependentUpon>UcInsertPembersih.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInsertPembersih.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModMasterPembersih.Designer.vb">
+      <DependentUpon>ModMasterPembersih.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModMasterPembersih.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInsertMesin.Designer.vb">
+      <DependentUpon>UcInsertMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInsertMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModMasterMesin.Designer.vb">
+      <DependentUpon>ModMasterMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModMasterMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\ModInsertLinen.Designer.vb">
+      <DependentUpon>ModInsertLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\ModInsertLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcInsertLinen.Designer.vb">
+      <DependentUpon>UcInsertLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcInsertLinen.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="setup\UcSetupRuang.Designer.vb">
+      <DependentUpon>UcSetupRuang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="setup\UcSetupRuang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLinenSetrika.Designer.vb">
+      <DependentUpon>FormTambahLinenSetrika.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLinenSetrika.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi\Helper.vb" />
+    <Compile Include="transaksi\ModDistribusiLaundryNew.Designer.vb">
+      <DependentUpon>ModDistribusiLaundryNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModDistribusiLaundryNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModHistoryTransaksi.Designer.vb">
+      <DependentUpon>ModHistoryTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModHistoryTransaksi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModInputLoadGudangNew.Designer.vb">
+      <DependentUpon>ModInputLoadGudangNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModInputLoadGudangNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModInputOrderLaundryNew.Designer.vb">
+      <DependentUpon>ModInputOrderLaundryNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModInputOrderLaundryNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesin2.Designer.vb">
+      <DependentUpon>ModUtilisasiMesin2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesin2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinCuciNew.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinCuciNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinCuciNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPengeringNew.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinPengeringNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPengeringNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinSetrikaNew.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinSetrikaNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinSetrikaNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcDistribusiLondry.designer.vb">
+      <DependentUpon>UcDistribusiLondry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcDistribusiLondry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UCHistoryTransaksi.Designer.vb">
+      <DependentUpon>UCHistoryTransaksi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UCHistoryTransaksi.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcInputLoadGudang.Designer.vb">
+      <DependentUpon>UcInputLoadGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcInputLoadGudang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesin2.Designer.vb">
+      <DependentUpon>UcUtilisasiMesin2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesin2.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinSetrika.Designer.vb">
+      <DependentUpon>UcUtilisasiMesinSetrika.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinSetrika.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinSetrika.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinSetrika.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinSetrika.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\FormQtyDistribusi.Designer.vb">
+      <DependentUpon>FormQtyDistribusi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\FormQtyDistribusi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModDistribusiLaundry.Designer.vb">
+      <DependentUpon>ModDistribusiLaundry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModDistribusiLaundry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLoadGudang.Designer.vb">
+      <DependentUpon>FormTambahLoadGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLoadGudang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModInputLoadGudang.Designer.vb">
+      <DependentUpon>ModInputLoadGudang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModInputLoadGudang.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModInputOrderLaundry.Designer.vb">
+      <DependentUpon>ModInputOrderLaundry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModInputOrderLaundry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinPengering.Designer.vb">
+      <DependentUpon>UcUtilisasiMesinPengering.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinPengering.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPengering.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinPengering.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPengering.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinPeras.Designer.vb">
+      <DependentUpon>UcUtilisasiMesinPeras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinPeras.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPeras.Designer.vb">
+      <DependentUpon>ModUtilisasiMesinPeras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesinPeras.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\FormTambahPembersih.Designer.vb">
+      <DependentUpon>FormTambahPembersih.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\FormTambahPembersih.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLinen.Designer.vb">
+      <DependentUpon>FormTambahLinen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\FormTambahLinen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesin.Designer.vb">
+      <DependentUpon>ModUtilisasiMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModUtilisasiMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UCInputOrderLondry.Designer.vb">
+      <DependentUpon>UCInputOrderLondry.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UCInputOrderLondry.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesin.Designer.vb">
+      <DependentUpon>UcUtilisasiMesin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesin.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\ModCetakKitirOrder.Designer.vb">
+      <DependentUpon>ModCetakKitirOrder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\ModCetakKitirOrder.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinSetrikaNew.Designer.vb">
+      <DependentUpon>UcUtilisasiMesinSetrikaNew.vb</DependentUpon>
+    </Compile>
+    <Compile Include="transaksi\UcUtilisasiMesinSetrikaNew.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="util\DirectPrint.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="laporan\ucDataLinenRusakHilang.resx">
+      <DependentUpon>ucDataLinenRusakHilang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucDataPenggunaanChemical.resx">
+      <DependentUpon>ucDataPenggunaanChemical.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucDataUtilisasiMesinCuci.resx">
+      <DependentUpon>ucDataUtilisasiMesinCuci.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucDataUtilisasiMesinPengering.resx">
+      <DependentUpon>ucDataUtilisasiMesinPengering.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucDataUtilisasiMesinSetrika.resx">
+      <DependentUpon>ucDataUtilisasiMesinSetrika.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucLapLinenPerMesinSetrika.resx">
+      <DependentUpon>ucLapLinenPerMesinSetrika.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\cr_KitirOrder.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_KitirOrder.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\FormKitirOrder.resx">
+      <DependentUpon>FormKitirOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\cr_LaporanRekapLinenBersih.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_LaporanRekapLinenBersih.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\cr_LaporanRekapLinenKelauar.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>cr_LaporanRekapLinenKelauar.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucRekapLinenKeluar.resx">
+      <DependentUpon>ucRekapLinenKeluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucRekapLinen.resx">
+      <DependentUpon>ucRekapLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucRekapLinenKotor.resx">
+      <DependentUpon>ucRekapLinenKotor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucRekapLinenPerJnsLinen.resx">
+      <DependentUpon>ucRekapLinenPerJnsLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="laporan\ucRekapLinenTerdistribusi.resx">
+      <DependentUpon>ucRekapLinenTerdistribusi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\FormAddDataLinen.resx">
+      <DependentUpon>FormAddDataLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\FormSetupRuang.resx">
+      <DependentUpon>FormSetupRuang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\FormTambahInv.resx">
+      <DependentUpon>FormTambahInv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModDataStokLinen.resx">
+      <DependentUpon>ModDataStokLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModLinenKeluar.resx">
+      <DependentUpon>ModLinenKeluar.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModLinenTransInNew.resx">
+      <DependentUpon>ModLinenTransInNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModLinenTransOutNew.resx">
+      <DependentUpon>ModLinenTransOutNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModMasterPembersih2.resx">
+      <DependentUpon>ModMasterPembersih2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcAddDetailDataPerolehanLinen.resx">
+      <DependentUpon>UcAddDetailDataPerolehanLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcAddInventarisRuangan.resx">
+      <DependentUpon>UcAddInventarisRuangan.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcDetailDataLinenRusak.resx">
+      <DependentUpon>UcDetailDataLinenRusak.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInsertPegawai.resx">
+      <DependentUpon>UcInsertPegawai.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModPegawaiLaundry.resx">
+      <DependentUpon>ModPegawaiLaundry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInsertPembersih2.resx">
+      <DependentUpon>UcInsertPembersih2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInventarisRuang.resx">
+      <DependentUpon>UcInventarisRuang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UCLinenTransOut.resx">
+      <DependentUpon>UCLinenTransOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModLinenTransOut.resx">
+      <DependentUpon>ModLinenTransOut.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\FormCancelTrans.resx">
+      <DependentUpon>FormCancelTrans.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\FormPersediaanLinen.resx">
+      <DependentUpon>FormPersediaanLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModLinenTransIn.resx">
+      <DependentUpon>ModLinenTransIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UCLinenTransIn.resx">
+      <DependentUpon>UCLinenTransIn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInsertPembersih.resx">
+      <DependentUpon>UcInsertPembersih.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModMasterPembersih.resx">
+      <DependentUpon>ModMasterPembersih.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInsertMesin.resx">
+      <DependentUpon>UcInsertMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModMasterMesin.resx">
+      <DependentUpon>ModMasterMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\ModInsertLinen.resx">
+      <DependentUpon>ModInsertLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcInsertLinen.resx">
+      <DependentUpon>UcInsertLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="setup\UcSetupRuang.resx">
+      <DependentUpon>UcSetupRuang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\FormTambahLinenSetrika.resx">
+      <DependentUpon>FormTambahLinenSetrika.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModDistribusiLaundryNew.resx">
+      <DependentUpon>ModDistribusiLaundryNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModHistoryTransaksi.resx">
+      <DependentUpon>ModHistoryTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModInputLoadGudangNew.resx">
+      <DependentUpon>ModInputLoadGudangNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModInputOrderLaundryNew.resx">
+      <DependentUpon>ModInputOrderLaundryNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesin2.resx">
+      <DependentUpon>ModUtilisasiMesin2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinCuciNew.resx">
+      <DependentUpon>ModUtilisasiMesinCuciNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinPengeringNew.resx">
+      <DependentUpon>ModUtilisasiMesinPengeringNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinSetrikaNew.resx">
+      <DependentUpon>ModUtilisasiMesinSetrikaNew.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcDistribusiLondry.resx">
+      <DependentUpon>UcDistribusiLondry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UCHistoryTransaksi.resx">
+      <DependentUpon>UCHistoryTransaksi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcInputLoadGudang.resx">
+      <DependentUpon>UcInputLoadGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesin2.resx">
+      <DependentUpon>UcUtilisasiMesin2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesinSetrika.resx">
+      <DependentUpon>UcUtilisasiMesinSetrika.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinSetrika.resx">
+      <DependentUpon>ModUtilisasiMesinSetrika.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\FormQtyDistribusi.resx">
+      <DependentUpon>FormQtyDistribusi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModCetakKitirOrder.resx">
+      <DependentUpon>ModCetakKitirOrder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModDistribusiLaundry.resx">
+      <DependentUpon>ModDistribusiLaundry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\FormTambahLoadGudang.resx">
+      <DependentUpon>FormTambahLoadGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModInputLoadGudang.resx">
+      <DependentUpon>ModInputLoadGudang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModInputOrderLaundry.resx">
+      <DependentUpon>ModInputOrderLaundry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesinPengering.resx">
+      <DependentUpon>UcUtilisasiMesinPengering.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinPengering.resx">
+      <DependentUpon>ModUtilisasiMesinPengering.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesinPeras.resx">
+      <DependentUpon>UcUtilisasiMesinPeras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesinPeras.resx">
+      <DependentUpon>ModUtilisasiMesinPeras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\FormTambahPembersih.resx">
+      <DependentUpon>FormTambahPembersih.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\FormTambahLinen.resx">
+      <DependentUpon>FormTambahLinen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\ModUtilisasiMesin.resx">
+      <DependentUpon>ModUtilisasiMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UCInputOrderLondry.resx">
+      <DependentUpon>UCInputOrderLondry.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesin.resx">
+      <DependentUpon>UcUtilisasiMesin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transaksi\UcUtilisasiMesinSetrikaNew.resx">
+      <DependentUpon>UcUtilisasiMesinSetrikaNew.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="laporan\LaporanRekapLinen.xsc">
+      <DependentUpon>LaporanRekapLinen.xsd</DependentUpon>
+    </None>
+    <None Include="laporan\LaporanRekapLinen.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LaporanRekapLinen.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="laporan\LaporanRekapLinen.xss">
+      <DependentUpon>LaporanRekapLinen.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\klipper_dock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close-window.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

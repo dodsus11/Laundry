@@ -1,0 +1,376 @@
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.UI.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.UI.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.UI.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.vbprojResolveAssemblyReference.cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinCuci.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinPengering.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucLapLinenPerMesinSetrika.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormKitirOrder.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKeluar.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKotor.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenTerdistribusi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.Resources.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih2.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPegawai.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModPegawaiLaundry.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih2.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransOut.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOut.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormCancelTrans.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormPersediaanLinen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransIn.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransIn.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInsertLinen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertLinen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinenSetrika.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModHistoryTransaksi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin2.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengeringNew.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UCCekFotoAbsenGeo.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UCHistoryTransaksi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInputLoadGudang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin2.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrika.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrika.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormQtyDistribusi.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModCetakKitirOrder.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcDistribusiLondry.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundry.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLoadGudang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudang.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundry.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPengering.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengering.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPeras.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPeras.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahPembersih.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinen.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UCInputOrderLondry.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrikaNew.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.vbproj.GenerateResource.Cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.dll.licenses
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.UI\obj\Release\Laundry.UI.pdb
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.vbprojResolveAssemblyReference.cache
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinCuci.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinPengering.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucLapLinenPerMesinSetrika.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormKitirOrder.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKeluar.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKotor.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenTerdistribusi.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.Resources.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih2.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPegawai.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModPegawaiLaundry.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih2.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransOut.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOut.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormCancelTrans.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormPersediaanLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransIn.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransIn.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertMesin.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModMasterMesin.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInsertLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInsertLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinenSetrika.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModHistoryTransaksi.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin2.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengeringNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UCCekFotoAbsenGeo.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UCHistoryTransaksi.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcInputLoadGudang.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin2.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrika.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrika.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormQtyDistribusi.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModCetakKitirOrder.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcDistribusiLondry.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundry.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLoadGudang.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudang.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundry.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPengering.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengering.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPeras.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPeras.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahPembersih.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UCInputOrderLondry.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrikaNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.vbproj.GenerateResource.Cache
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.dll.licenses
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.dll
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.xml
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.pdb
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.UI.dll
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.UI.pdb
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.UI.xml
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransInNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOutNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundryNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudangNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundryNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinCuciNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrikaNew.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataLinenRusakHilang.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucDataPenggunaanChemical.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenPerJnsLinen.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.UI\obj\Release\Laundry.UI.ModDataStokLinen.resources
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.dll
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.xml
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataLinenRusakHilang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataPenggunaanChemical.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinCuci.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinPengering.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucLapLinenPerMesinSetrika.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormKitirOrder.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKeluar.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKotor.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenPerJnsLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenTerdistribusi.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.Resources.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDataStokLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransInNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOutNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih2.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPegawai.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModPegawaiLaundry.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih2.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransOut.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOut.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormCancelTrans.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormPersediaanLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransIn.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransIn.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertMesin.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterMesin.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInsertLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinenSetrika.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundryNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModHistoryTransaksi.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudangNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundryNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin2.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinCuciNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengeringNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrikaNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCHistoryTransaksi.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInputLoadGudang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin2.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrika.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrika.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormQtyDistribusi.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModCetakKitirOrder.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDistribusiLondry.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundry.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLoadGudang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundry.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPengering.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengering.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPeras.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPeras.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahPembersih.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCInputOrderLondry.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrikaNew.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbproj.GenerateResource.Cache
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll.licenses
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.xml
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.pdb
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcSetupRuang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormSetupRuang.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.dll
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.xml
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbprojResolveAssemblyReference.cache
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataLinenRusakHilang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataPenggunaanChemical.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinCuci.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinPengering.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucLapLinenPerMesinSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormKitirOrder.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKeluar.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKotor.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenPerJnsLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenTerdistribusi.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.Resources.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormSetupRuang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDataStokLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransInNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOutNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih2.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPegawai.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModPegawaiLaundry.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih2.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransOut.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOut.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormCancelTrans.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormPersediaanLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransIn.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransIn.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertMesin.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterMesin.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInsertLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcSetupRuang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinenSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundryNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModHistoryTransaksi.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudangNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundryNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin2.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinCuciNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengeringNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrikaNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCCekFotoAbsenGeo.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDistribusiLondry.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCHistoryTransaksi.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInputLoadGudang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin2.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrika.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormQtyDistribusi.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModCetakKitirOrder.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundry.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLoadGudang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudang.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundry.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPengering.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengering.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPeras.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPeras.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahPembersih.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCInputOrderLondry.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrikaNew.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbproj.GenerateResource.Cache
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll.licenses
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.xml
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.pdb
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenKeluar.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDetailDataLinenRusak.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormAddDataLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcAddDetailDataPerolehanLinen.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInventarisRuang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbprojResolveAssemblyReference.cache
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataLinenRusakHilang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataPenggunaanChemical.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinCuci.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinPengering.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucDataUtilisasiMesinSetrika.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucLapLinenPerMesinSetrika.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormKitirOrder.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKeluar.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenKotor.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenPerJnsLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ucRekapLinenTerdistribusi.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.Resources.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormAddDataLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormSetupRuang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDataStokLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenKeluar.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransInNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOutNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih2.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcAddDetailDataPerolehanLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDetailDataLinenRusak.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPegawai.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModPegawaiLaundry.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih2.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInventarisRuang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransOut.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransOut.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormCancelTrans.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormPersediaanLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenTransIn.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCLinenTransIn.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertPembersih.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterPembersih.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertMesin.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModMasterMesin.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInsertLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInsertLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcSetupRuang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinenSetrika.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundryNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModHistoryTransaksi.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudangNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundryNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin2.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinCuciNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengeringNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrikaNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCCekFotoAbsenGeo.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDistribusiLondry.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCHistoryTransaksi.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInputLoadGudang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin2.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrika.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinSetrika.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormQtyDistribusi.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModCetakKitirOrder.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModDistribusiLaundry.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLoadGudang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputLoadGudang.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModInputOrderLaundry.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPengering.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPengering.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinPeras.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesinPeras.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahPembersih.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahLinen.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModUtilisasiMesin.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UCInputOrderLondry.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesin.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcUtilisasiMesinSetrikaNew.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.vbproj.GenerateResource.Cache
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll.licenses
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.dll
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.xml
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.pdb
+F:\KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.dll
+F:\KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.pdb
+F:\KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.UI.xml
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahInv.resources
+F:\KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcAddInventarisRuangan.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormAddDataLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.FormTambahInv.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.ModLinenKeluar.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcAddDetailDataPerolehanLinen.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcAddInventarisRuangan.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcDetailDataLinenRusak.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.UI\obj\Release\Laundry.UI.UcInventarisRuang.resources

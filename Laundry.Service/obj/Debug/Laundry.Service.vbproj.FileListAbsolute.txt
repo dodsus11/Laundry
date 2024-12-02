@@ -1,0 +1,36 @@
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.Service.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\HmisTemplate\bin\Release\Laundry.Service.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.Resources.resources
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.vbproj.GenerateResource.Cache
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.dll
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.xml
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.pdb
+F:\PUBLISH APLIKASI RSDK\HMIS\HMIS_CLONE_NEW\HMIS Clone Januari\hmis\Laundry.Service\obj\Debug\Laundry.Service.vbprojResolveAssemblyReference.cache
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.Service.dll
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.Service.pdb
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\HmisTemplate\bin\Release\Laundry.Service.xml
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.vbprojResolveAssemblyReference.cache
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.Resources.resources
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.vbproj.GenerateResource.Cache
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.dll
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.xml
+D:\PUBLISH APLIKASI RSDK\HMIS\HMIS_NEW\hmis\Laundry.Service\obj\Debug\Laundry.Service.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.dll
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.pdb
+D:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.xml
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.vbprojResolveAssemblyReference.cache
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.Resources.resources
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.vbproj.GenerateResource.Cache
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.dll
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.xml
+D:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.dll
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.pdb
+F:\GARAPAN_KANTOR\Laundy\HmisTemplate\bin\Release\Laundry.Service.xml
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.vbprojResolveAssemblyReference.cache
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.Resources.resources
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.vbproj.GenerateResource.Cache
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.dll
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.xml
+F:\GARAPAN_KANTOR\Laundy\Laundry.Service\obj\Debug\Laundry.Service.pdb

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PISService
+</name>
+</assembly>
+<members>
+<member name="M:PISService.dao.PisOMLabRadDao.saveOM_Lab(PISService.model.OmPatInfo,System.Collections.Generic.List{PISService.model.OmLabItem},System.String@)">
+	<summary>
+ deprecated method(2015-1-12)
+ </summary>
+	<param name="patInfo"></param>
+	<param name="lbItems"></param>
+	<param name="noOrder"></param>
+	<remarks></remarks>
+</member><member name="P:PISService.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PISService.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PISService.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:PISService.model.Perawatan.asalMasuk">
+	<summary>
+ asal pasien dari IRNA atau IRJA
+ </summary>
+	<remarks></remarks>
+</member><member name="M:PISService.dao.PisBerkasMRDao.KirimBerkas(System.Collections.Generic.List{System.Int64})">
+	<summary>
+ Deprecated (2014-11-14)
+ </summary>
+	<param name="pasienList"></param>
+	<remarks></remarks>
+</member><member name="M:PISService.dao.PisAdmisiIRDADao.saveAdmisiIRDA(PISService.model.Perawatan)">
+	<summary>
+ DEPRECATED
+ </summary>
+	<param name="pwt"></param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="M:PISService.dao.PisPartyDao.saveOrganization(PISService.model.Organization,PISService.model.Address,PISService.model.ContactMechanism,System.Boolean)">
+	<summary>
+	</summary>
+	<param name="org"></param>
+	<param name="addr"></param>
+	<param name="cm"></param>
+	<param name="isInternOrg"></param>
+	<remarks> IsInternOrg true=&gt; INTERN_ORG, false=&gt; EXTERN_ORG </remarks>
+</member>
+</members>
+</doc>
